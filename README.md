@@ -9,5 +9,3 @@
 
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
